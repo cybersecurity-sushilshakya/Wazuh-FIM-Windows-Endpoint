@@ -14,6 +14,8 @@ This lab simulates a small banking environment where a SOC team monitors a Windo
 
 ## Network Layout
 - Wazuh SIEM Server: 192.168.10.50
+  <img width="1101" height="422" alt="WazuhSIEM-IP" src="https://github.com/user-attachments/assets/edcb3b59-cb0a-488e-b035-e203349c9ffc" />
+
 - Windows 10 Endpoint: 192.168.10.20
 - pfSense LAN Interface: 192.168.10.1
 
