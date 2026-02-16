@@ -4,16 +4,12 @@
 The following virtual machines were used for this project:
 
 - Wazuh SIEM Server
-  - OS: Ubuntu Desktop 24.04
-  - RAM: 2 GB
+  - OS: Ubuntu Server 22.04
+  - RAM: 5 GB
 
 - Windows 10 Endpoint
   - Role: Bank employee workstation
   - RAM: 2 GB
-
-- pfSense Firewall
-  - Role: Network gateway
-  - RAM: 1 GB
 
 ---
 
