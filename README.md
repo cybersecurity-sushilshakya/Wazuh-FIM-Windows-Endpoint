@@ -4,7 +4,7 @@
 This project demonstrates the implementation of File Integrity Monitoring (FIM) on a Windows 10 endpoint using Wazuh SIEM.
 The objective is to detect unauthorized file creation, modification, and deletion in a simulated banking SOC environment.
 
-File Integrity Monitoring is a critical security control used by banks to identify insider threats, malware activity, and unauthorized system changes.
+FIM is a critical security control used by banks to identify insider threats, malware activity, and unauthorized system changes.
 
 ---
 
@@ -20,10 +20,9 @@ This project simulates real-world FIM use cases monitored by SOC analysts.
 ---
 
 ## Tools Used
-- Wazuh SIEM 4.9
+- Wazuh SIEM 4.12
 - Wazuh Agent (installed on Windows 10 Endpoint)
 - Windows 10 Endpoint
-- pfSense Firewall
 - VirtualBox
 
 ---
