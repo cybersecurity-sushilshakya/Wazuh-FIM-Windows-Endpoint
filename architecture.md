@@ -12,7 +12,7 @@ This lab simulates a small banking environment where a SOC team monitors a Windo
 ---
 
 ## Network Layout
-- Wazuh SIEM Server: 192.168.1.100 (Bridged Network)
+- Wazuh SIEM Server: 192.168.1.200 (Bridged Network)
 - Windows 10 Endpoint: 192.168.1.20 (Bridged Network)
   
 The Windows endpoint sends security telemetry to the Wazuh SIEM server through the Wazuh agent.
